@@ -9,6 +9,6 @@
 - HTML, CSS, JavaScript
 - C# (for Unity)
 - C, C++
-- Python
+- Java, Python
 
 ### I love you ALL!
