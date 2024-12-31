@@ -1,6 +1,14 @@
-# 👋Hi There!
+# Hello👋, nice to be here!
 
-<!---
-daniuge233/daniuge233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Who am I
+- A student who's fund of programming <del> and who hates school </del>.
+- Chinese
+- Born in April 22, 2009.
+
+### What I'm using
+- HTML, CSS, JavaScript
+- C# (for Unity)
+- C, C++
+- Python
+
+### I love you ALL!
